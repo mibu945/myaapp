@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  dasd: MyText
+  asdsda: false
+  asddas: false
+
+two:
+  dasd: MyText
+  asdsda: false
+  asddas: false
