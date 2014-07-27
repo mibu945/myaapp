@@ -38,3 +38,9 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+gem 'bundler'
+
+gem 'google-analytics-rails'
+gem 'rails_config'
+gem 'validates_formatting_of'
+gem 'tzinfo-data'
